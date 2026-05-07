@@ -112,6 +112,14 @@
       "chainId": 56,
       "decimals": 18,
       "logoURI": "https://tokens.pancakeswap.finance/images/0x8AC76a51cc950d9822D68b83fE1Ad97B32Cd580d.png"
-    }
-  ]
+    },
+    {
+        "name": "ARDAX",
+        "symbol": "ARDAX",
+        "address": "0xA14D4F7bE814E1F267d3e8AB6190d357FeEcBEb",
+        "chainId": 56,
+        "decimals": 18,
+        "logoURI": "https://tokens.pancakeswap.finance/images/0xA14D4F7bE814E1F267d3e8AB6190d357FeEcBEb.png"
+      }
+    ]
 }
